@@ -1,0 +1,10 @@
+RECANTO ODONTOLÓGICO — VERSÃO FINAL
+
+1. Envie index.html e a pasta assets/ para o GitHub.
+2. Publique o repositório na Vercel.
+3. Depois da publicação, troque em index.html todas as ocorrências de:
+   https://SEU-DOMINIO.vercel.app
+   pelo endereço real da Vercel.
+
+Isso ativa corretamente a miniatura de compartilhamento (Open Graph/Twitter)
+no WhatsApp, Facebook e outras redes usando assets/recanto-social.jpg.
